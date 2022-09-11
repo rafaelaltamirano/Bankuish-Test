@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="BankuishChallenge.app" target="11" />
+      <module name="BankuishChallenge.domain" target="1.8" />
+      <module name="BankuishChallenge.domain.main" target="1.8" />
+      <module name="BankuishChallenge.domain.test" target="1.8" />
+      <module name="BankuishChallenge.usecases" target="1.8" />
+      <module name="BankuishChallenge.usecases.main" target="1.8" />
+      <module name="BankuishChallenge.usecases.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
